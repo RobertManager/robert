@@ -39,7 +39,7 @@ $serverName = php_uname('n');
 
 	define ("HOST", "localhost");												// nom de l'hôte ou se trouve la bdd
 	define ("USER", "root");													// nom de l'utilisateur autorisé à se connecter
-	define ("PASS", "");														// son mot de passe
+	define ("PASS", "jm48Kmaq");														// son mot de passe
 	define ("BASE", "robert");													// nom de la base de données
 
 
